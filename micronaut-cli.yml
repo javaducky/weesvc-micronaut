@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: weesvc
+---
+testFramework: junit
+sourceLanguage: java
