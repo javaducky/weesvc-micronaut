@@ -45,7 +45,7 @@ dependencies {
 
 test.classpath += configurations.developmentOnly
 
-mainClassName = "weesvc.Application"
+mainClassName = "io.weesvc.micronaut.weesvc.Application"
 // use JUnit 5 platform
 test {
     useJUnitPlatform()
