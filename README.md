@@ -1,4 +1,4 @@
-# WeeSvc SpringBoot
+# WeeSvc Micronaut
 "WEE-S-V-C": the tiny service for demonstrating microservice frameworks.
 
 ### Getting Started
